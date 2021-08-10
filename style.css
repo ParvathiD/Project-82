@@ -1,0 +1,19 @@
+h1
+{
+	color: navy; 
+	font-weight: bold;
+	font-size: 40px;
+}
+.body_backgorund {
+	background-position: center;
+	background-size: cover;
+	background-image: url("https://image.shutterstock.com/z/avopix-306779609.jpg");
+}
+
+#myCanvas{
+	border-width: 10px;
+	border-color: gold;
+	background-color: white;
+	border-style: ridge;
+
+}
